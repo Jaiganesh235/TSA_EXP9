@@ -1,5 +1,7 @@
+## DEVELOPED BY: S JAIGANESH
+## REGISTER NO: 212222240037
+## DATE: 
 # EX.NO.09        A project on Time series analysis on forecasting using ARIMA model 
-### Date: 
 
 ### AIM:
 To Create a project on Time series analysis on forecasting using ARIMA model in  Python and compare with other models.
