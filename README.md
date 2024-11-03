@@ -4,7 +4,7 @@
 ### AIM:
 To Create a project on Time series analysis on forecasting using ARIMA model in  Python and compare with other models.
 ### ALGORITHM:
-1. Explore the dataset of weather 
+1. Explore the dataset of Raw_sales. 
 2. Check for stationarity of time series time series plot
    ACF plot and PACF plot
    ADF test
@@ -63,7 +63,8 @@ arima_model(data, 'price', order=(5,1,0))
 
 ```
 ### OUTPUT:
+![image](https://github.com/user-attachments/assets/a8279c2b-cdb7-44d0-9a97-7124e9e857ce)
 
 
 ### RESULT:
-Thus the program run successfully based on the ARIMA model using python.
+Thus, the program based on the ARIMA model using python is executed successfully.
